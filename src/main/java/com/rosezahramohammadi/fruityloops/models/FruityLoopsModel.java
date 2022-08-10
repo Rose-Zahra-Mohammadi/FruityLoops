@@ -2,8 +2,6 @@ package com.rosezahramohammadi.fruityloops.models;
 
 public class FruityLoopsModel {
 	private String name;
-	
-
 	private double price;
 	
 	public FruityLoopsModel(String name, double price) {
